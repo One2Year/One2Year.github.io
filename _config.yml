@@ -1,10 +1,10 @@
 # Site settings
-title: xT刘's Blog
-SEOTitle: xT刘的博客 | xTLiu's Blog
+title: Shawn Lau's Blog
+SEOTitle: 肖恩刘的博客 | Shawn Lau's Blog
 header-img: img/post-bg-desk.jpg
 email: coderxt.liu@gmail.com
 description: "If you really want"
-keyword: "One2Year, One2Year Blog, 壹两年的博客, one2year"
+keyword: ""
 url: "http://one2year.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/one2year/one2year.github.io.git" # you code repository
