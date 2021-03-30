@@ -1,10 +1,10 @@
 ---
 layout:     post   				    # 使用的布局（不需要改）
-title:      CMU人机交互导论2018				# 标题 
+title:      CMU人机交互导论				# 标题 
 subtitle:   HCI入门课程（一） #副标题
 date:       2021-03-29 				# 时间
 author:     Shawn Lau						# 作者
-header-img: img/post-bg-mhxy.jpg 	#这篇文章标题背景图片
+header-img: img/post-bg-hci-1.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
     - HCI
@@ -15,6 +15,8 @@ tags:								#标签
 ---
 
 [Course Homepage](https://www.cs.cmu.edu/~bam/uicourse/05863fall18/schedule.html)
+
+Textbook: [The UX Book](https://book.douban.com/subject/7925140/)
 
 *这篇blog将会记录CMU这门课的学习过程以及相关阅读、作业等，作为转行产品经理的根基课，预计时间3个月。* 
 
@@ -65,6 +67,13 @@ Interface为什么很重要？
   - 差异化竞争
 
 **如果用户找不到或者不使用某个功能，它就不存在**
+
+> It is easy to make things hard. It is hard to make things easy.
+
+*REQUIRED READINGS Hartson-Pyla text: Chapter 1*
+
+
+
 
 
 
