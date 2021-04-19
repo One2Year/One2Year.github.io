@@ -24,7 +24,7 @@ Textbook: [The UX Book](https://book.douban.com/subject/7925140/)
 
 ---
 
-**WEEK1 3月29日-3月30日**
+**WEEK1**
 ## Lecture 01: Introduction and Why are UIs Important and Difficult to Design and Implement
 - 理解什么是可用性（Usability）
 - 四种方法实现可用性：
@@ -48,6 +48,17 @@ Designer ≠ User
   - Pleasurable
 
 ### User Experience（UX）
+> User experience is the totality of the effects felt by the user before, during, and after interaction with a product or system in an ecology.
+
+用户体验是用户在与一个生态系统或产品交互之前、过程中和之后所感受到的效果的总和。
+
+UX的组成部分：
+- Usability
+- Usefulness
+- Emotional impact
+- Meaningfulness
+
+
 Interface为什么很重要？
 
 - 对于用户来说：
@@ -70,7 +81,18 @@ Interface为什么很重要？
 
 > It is easy to make things hard. It is hard to make things easy.
 
-*REQUIRED READINGS Hartson-Pyla text: Chapter 1*
+
+## Lecture 2: Discovering what people can't tell you: Contextual Inquiry and Analysis Methodology
+
+一些调研Usability的方法：
+- Contextual Inquiry 背景问询
+- Contextual Analysis (Design) 背景调研
+  - 以上两种方法在鹅厂wo谈会中都有提到，统称为**用户调研**，简称用研，鹅厂甚至组建了专门的用研团队，有专门的调研室，邀请用户过来进行讨论
+- Paper prototypes
+- ？Think-aloud protocols
+- ？Heuristic Evaluation
+
+![Some Usability Methods](https://ftp.bmp.ovh/imgs/2021/04/3ba839feb67a14d2.png)
 
 
 
